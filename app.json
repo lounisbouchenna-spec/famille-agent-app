@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Famille Agent",
+    "slug": "famille-agent-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.familleagent.app"
+    },
+    "android": {
+      "package": "com.familleagent.app"
+    }
+  }
+}
